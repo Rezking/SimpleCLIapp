@@ -1,0 +1,5 @@
+#These are the files and directories to ignore
+
+.idea/
+out/
+*.iml
